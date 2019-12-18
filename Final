@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Apps Page</title>
+        <style>
+            body {
+                background-color: blue;
+            }
+            #nav-table-apps {
+                width: 800px ;
+            }
+        </style>
+    </head>
+    <body>
+    <img src="MyBanner.jpg">
+        <table id=nav-table-apps>
+            <thead>
+                <tr>
+                    <td> <a href="https://bobbydaly.github.io"> <img src="Home.png"> </a> </td>
+                    <td> <a href="https://bobbydaly.github.io/javascripts.html"> <img src="Javascripts.png"> </a> </td>
+                    <td> <img src="Apps.png"> </td>
+                    <td> <a href="https://bobbydaly.github.io/about.html"> <img src="About Me.png"> </a> </td>
+                    
+                </tr>
+            </thead>
+        <h1>My Final Project Apps</h1>
+            <p> This page contains "app" versions of my program that I wrote.
+            </p>
+    </body>
+</html>
